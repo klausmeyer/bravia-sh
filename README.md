@@ -13,7 +13,7 @@ Copy the `.env.example` file to `.env` and fill the variables.
 Call the script with the command of your choice:
 
 ```shell
-./bash.sh <command>
+./bravia.sh <command>
 ```
 
 Commands:
